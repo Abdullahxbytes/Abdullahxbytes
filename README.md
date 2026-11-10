@@ -28,11 +28,10 @@
       </p>
     </td>
     <td valign="middle" align="center" width="38%">
-      <a href="octacat-removebg-preview.png">
-        <img src="https://octodex.github.com/images/Robotocat.png" alt="Robotocat from GitHub's Octodex" width="280" />
+      <a href="">
+        <img src="octacat-removebg-preview.png" width="280" />
       </a>
       <br />
-      <sub>Robotocat by <a href="https://github.com/jeejkang">jeejkang</a>, via <a href="https://octodex.github.com/">Octodex</a></sub>
     </td>
   </tr>
 </table>
