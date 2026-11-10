@@ -15,15 +15,11 @@
   <tr>
     <td valign="middle" width="62%">
       <h1>Abdullah Mehmood</h1>
-      <h3>Computer Science student. Aspiring software engineer. Open-source enthusiast.</h3>
-      <p>
-        I like turning rough ideas into software that actually works, and I'm
-        happiest when the problem is a little bit hard. Right now I'm studying
-        Computer Science, learning in public, and getting more comfortable
-        reading, breaking, and fixing other people's code.
+      <h3>ICE_MAN</h3>
+      <p></p>
       </p>
       <p>
-        <b>Currently exploring:</b> software engineering, open source, cloud computing, and AI.
+        <b>Currently exploring:</b> Devops, open source, cloud computing, software eng and AI.
       </p>
       <p>
         <a href="https://github.com/Abdullahxbytes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -32,7 +28,7 @@
       </p>
     </td>
     <td valign="middle" align="center" width="38%">
-      <a href="https://octodex.github.com/Robotocat/">
+      <a href="octacat-removebg-preview.png">
         <img src="https://octodex.github.com/images/Robotocat.png" alt="Robotocat from GitHub's Octodex" width="280" />
       </a>
       <br />
@@ -45,11 +41,11 @@
 
 ## About Me
 
-I'm a BS Computer Science student at **Capital University of Science and Technology (CUST), Islamabad**, with a real soft spot for software development and problem-solving. Nothing beats the moment a stubborn bug finally gives up.
+I'm a BS Computer Science student , with a real soft spot for Cloud & Devops, software development and problem-solving.
 
-Open source is where I want to grow the most. Reading real-world codebases, sending contributions, and learning from maintainers is, in my view, the fastest way to become a better engineer. I'm aiming to take part in programs like **Google Summer of Code** and give back to the projects I learn from.
+Open source is where I want to grow the most. Reading real-world codebases, sending contributions, and learning from maintainers is, in my view, the fastest way to become a better creator and programmer
 
-I'm also curious about where technology is heading: AI, cloud platforms, and the kind of software that makes a genuine difference to the people using it.
+Also curious about where technology is heading: AI, cloud platforms, and the kind of software that makes a genuine difference to the people using it and finding the balance between the trinity of computer science cloud , AI and SE.
 
 <br />
 
@@ -115,7 +111,7 @@ I'm also curious about where technology is heading: AI, cloud platforms, and the
 
 <br />
 
-## Connect With Me
+## npm install Abdullah_in_your_life
 
 I'm always up for a conversation about open source, internships, or interesting problems worth solving.
 
