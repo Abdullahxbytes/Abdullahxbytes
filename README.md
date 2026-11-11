@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="octacat-removebg-preview.png" width="100" alt="Robotocat" /></td>
+    <td><img src="octacat-removebg-preview.png" width="300" alt="Robotocat" /></td>
     <td>
       <h1>Hey Bro!</h1>
       <h3>Myself Abdullah</h3>
