@@ -93,7 +93,7 @@ I'm always up for a conversation about open source, internships, or interesting 
   <a href="https://x.com/YOUR_X_USERNAME"><img src="https://img.shields.io/badge/X-YOUR__X__USERNAME-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
-<br />
+<br/>
 
 <p align="center">
   <sub>Thanks for stopping by. Built with curiosity, coffee, and a lot of <code>git commit</code>.</sub>
