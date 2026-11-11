@@ -1,16 +1,3 @@
-<!--
-  ============================================================
-  PROFILE README  |  Abdullah Mehmood
-  ============================================================
-  Quick edit guide:
-    1. X (Twitter) link ........ search for YOUR_X_USERNAME
-    2. Skills .................. edit the icon IDs in each "icons?i=" list
-                                 (full icon list: https://skillicons.dev)
-    3. Stats theme ............. change theme=tokyonight / theme=default
-    4. GitHub username ......... only appears as "Abdullahxbytes" in the stats URLs
-  ============================================================
--->
-
 <img align="right" src="octacat-removebg-preview.png" width="400" alt="Robotocat" />
 <h1> Hey Bro! </h1>
 
@@ -26,15 +13,13 @@
 </p>
 
 <br clear="right" />
-## About Me
-
 I'm a BS Computer Science student , with a real soft spot for Cloud & Devops, software development and problem-solving.
 
 Open source is where I want to grow the most. Reading real-world codebases, sending contributions, and learning from maintainers is, in my view, the fastest way to become a better creator and programmer
 
 Also curious about where technology is heading: AI, cloud platforms, and the kind of software that makes a genuine difference to the people using it and finding the balance between the trinity of computer science cloud , AI and SE.
 
-<br />
+<br/>
 
 ## Technical Skills
 
