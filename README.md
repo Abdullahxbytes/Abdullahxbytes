@@ -11,17 +11,16 @@
   ============================================================
 -->
 
-<img align="right" src="octacat-removebg-preview.png" width="280" alt="Robotocat" />
+<img align="right" src="octacat-removebg-preview.png" width="400" alt="Robotocat" />
 <h1> Hey Bro! </h1>
 
 <h3>Myself Abdullah</h3>
 
 <p>
-  <b>Currently exploring:</b> DevOps, open source, cloud computing, software engineering, and AI.
+  <b>Currently exploring and building in:</b> DevOps, open source, cloud computing, software engineering, and AI.
 </p>
 
 <p>
-  <a href="https://github.com/Abdullahxbytes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/abdullah-mehmood-8845002a4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/YOUR_X_USERNAME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
