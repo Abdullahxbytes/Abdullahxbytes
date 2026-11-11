@@ -11,33 +11,6 @@
   ============================================================
 -->
 
-<table>
-  <tr>
-    <td valign="middle" width="62%">
-      <h1>Abdullah Mehmood</h1>
-      <h3>ICE_MAN</h3>
-      <p></p>
-      </p>
-      <p>
-        <b>Currently exploring:</b> Devops, open source, cloud computing, software eng and AI.
-      </p>
-      <p>
-        <a href="https://github.com/Abdullahxbytes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-        <a href="https://linkedin.com/in/abdullah-mehmood-8845002a4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-        <a href="https://x.com/YOUR_X_USERNAME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-      </p>
-    </td>
-    <td valign="middle" align="center" width="38%">
-      <a href="">
-        <img src="octacat-removebg-preview.png" width="280" />
-      </a>
-      <br />
-    </td>
-  </tr>
-</table>
-
-<br />
-<img align="right" src="octacat-removebg-preview.png" width="280" alt="Robotocat" />
 
 <h1>Abdullah Mehmood</h1>
 
