@@ -11,13 +11,10 @@
   ============================================================
 -->
 
-
-
-<br />
 <img align="right" src="octacat-removebg-preview.png" width="280" alt="Robotocat" />
-<h1>Abdullah Mehmood</h1>
+<h1> Hey Bro! </h1>
 
-<h3>ICE_MAN</h3>
+<h3>Myself Abdullah</h3>
 
 <p>
   <b>Currently exploring:</b> DevOps, open source, cloud computing, software engineering, and AI.
