@@ -3,7 +3,7 @@
     <td><img src="octacat-removebg-preview.png" width="300" alt="Robotocat" /></td>
     <td>
       <h1>Hey Bro!</h1>
-      <h3>Myself Abdullah</h3>
+      <h3>Abdullah Here</h3>
     </td>
   </tr>
 </table>
@@ -23,7 +23,7 @@
 
 <br />
 
-## Technical Skills
+## Technologies I've worked with
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,cpp,html,css,react,nodejs,express,docker,linux,aws,postgres,terraform,git,github,vscode&theme=dark" alt="JavaScript, C++, HTML, CSS, React, Node.js, Express, Docker, Linux, AWS, PostgreSQL, Terraform, Git, GitHub, and VS Code" />
@@ -31,7 +31,7 @@
 
 <br />
 
-## GitHub Statistics
+## My time on Github
 
 <p align="center">
   <picture>
