@@ -1,19 +1,12 @@
-<table>
-  <tr>
-    <td><img src="octacat-removebg-preview.png" width="300" alt="Robotocat" /></td>
-    <td>
-      <h1>Hey Bro!</h1>
-      <h3>Abdullah Here</h3>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="octacat-removebg-preview.png" width="300" align="left" alt="Robotocat" />
+  <h1>Hey Bro!</h1>
+  <h3>Abdullah Here</h3>
+</p>
+
+<br clear="left" />
 
 <p><b>Currently exploring and building in:</b> DevOps, open source, cloud computing, software engineering, and AI.</p>
-
-<p>
-  <a href="https://linkedin.com/in/abdullah-mehmood-8845002a4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/YOUR_X_USERNAME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-</p>
 
 <p>I'm a BS Computer Science student, with a real soft spot for Cloud &amp; DevOps, software development, and problem-solving.</p>
 
@@ -26,7 +19,7 @@
 ## Technologies I've worked with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,cpp,html,css,react,nodejs,express,docker,linux,aws,postgres,terraform,git,github,vscode&theme=dark" alt="JavaScript, C++, HTML, CSS, React, Node.js, Express, Docker, Linux, AWS, PostgreSQL, Terraform, Git, GitHub, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,html,css,react,nodejs,docker,linux,aws,postgres,terraform,git,github,vscode&theme=dark" alt="JavaScript, TypeScript, C++, HTML, CSS, React, Node.js, Docker, Linux, AWS, PostgreSQL, Terraform, Git, GitHub, VS Code" />
 </p>
 
 <br />
@@ -37,13 +30,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Abdullahxbytes&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;theme=tokyonight" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Abdullahxbytes&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;theme=default" />
-    <img alt="GitHub contribution statistics" src="https://github-readme-stats.vercel.app/api?username=Abdullahxbytes&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;theme=tokyonight" height="170" />
+    <img alt="GitHub contribution statistics" src="https://github-readme-stats.vercel.app/api?username=Abdullahxbytes&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;theme=tokyonight" />
   </picture>
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahxbytes&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;theme=tokyonight" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahxbytes&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;theme=default" />
-    <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahxbytes&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;theme=tokyonight" height="170" />
+    <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahxbytes&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;theme=tokyonight" />
   </picture>
 </p>
 
@@ -70,7 +63,6 @@
 I'm always up for a conversation about open source, internships, or interesting problems worth solving.
 
 <p>
-  <a href="https://github.com/Abdullahxbytes"><img src="https://img.shields.io/badge/GitHub-Abdullahxbytes-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/abdullah-mehmood-8845002a4"><img src="https://img.shields.io/badge/LinkedIn-Abdullah_Mehmood-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/YOUR_X_USERNAME"><img src="https://img.shields.io/badge/X-YOUR__X__USERNAME-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>
 </p>
